@@ -11,11 +11,10 @@ I'm a software engineer at heart, and currently pursuing my graduate program in 
 
 ## ✨ Experience
 
-- 📕 Worked at Automattic in customer service, mostly on WordPress.com and on WooCommerce.com. Bring five years of experience in these products.
+- 📕 Product Ambassador at Automattic, for WordPress and WooCommerce.
 - 🔐 Contribute to the 1Password Shell Plugins project.
 - 🧑🏽‍💻 Contribute to the WordPress.com Calypso project.
-- 📈 Have experience building Slack and Telegram chatbots on Cloudflare Workers with Workers KV storage platform, and GitHub Actions to automate workflows.
-- ✨ Experienced with DNS, Email, and other Cloudflare products.
+- 📈 Built Slack and Telegram chatbots on Cloudflare Workers, Fly.io, and GitHub Actions.
 
 ## 🔖 Coursework
 
