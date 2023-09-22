@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-I'm a software engineer at heart, and currently pursuing my graduate program in Data Analytics at California State University - East Bay. I am currently learning golang and rust. 🦀
+I'm a software engineer, and I'm currently enrolled in graduate program in Data Analytics at California State University - East Bay. I love CLI development, API integration and all things Go.
 
 ## 🪄 What I do
 
@@ -12,14 +12,14 @@ I'm a software engineer at heart, and currently pursuing my graduate program in 
 ## ✨ Experience
 
 - 📕 Product Ambassador at Automattic, for WordPress and WooCommerce.
-- 🔐 Contribute to the 1Password Shell Plugins project.
+- 🔐 Developer Intern at 1Password, worked on the 1Password Shell Plugins project and the 1Password CLI.
 - 🧑🏽‍💻 Contribute to the WordPress.com Calypso project.
 - 📈 Built Slack and Telegram chatbots on Cloudflare Workers, Fly.io, and GitHub Actions.
 
 ## 🔖 Coursework
 
 - 📚 Learning EC2/EMR, Hadoop, Redshift.
-- 💾 Familiar with Pythong and R programming for Data Gathering, cleansing and Data Analysis.
+- 💾 Familiar with Python and R programming for Data Gathering, cleansing and Data Analysis.
 - 🧩 Hands-on experience with Tableau and SPSS.
 
 ## 📫 Contact Me
