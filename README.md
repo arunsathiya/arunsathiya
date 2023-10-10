@@ -5,11 +5,11 @@
 <a href="https://github.com/arunsathiya">
    <picture>
       <source
-         srcset="https://github-readme-stats.vercel.app/api?username=arunsathiya&show_icons=true&theme=dark"
+         srcset="https://github-readme-stats.vercel.app/api?username=arunsathiya&show_icons=true&layout=compact&theme=dark"
          media="(prefers-color-scheme: dark)"
          />
       <source
-         srcset="https://github-readme-stats.vercel.app/api?username=arunsathiya&show_icons=true"
+         srcset="https://github-readme-stats.vercel.app/api?username=arunsathiya&show_icons=true&layout=compact"
          media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
          />
       <img src="https://github-readme-stats.vercel.app/api?username=arunsathiya&show_icons=true" />
@@ -18,13 +18,13 @@
 <a href="https://github.com/arunsathiya">
    <picture>
       <source
-         srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=arunsathiya&layout=compact&theme=dark"
+         srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=arunsathiya&layout=compact&layout=compact&theme=dark"
          media="(prefers-color-scheme: dark)"
          />
       <source
-         srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=arunsathiya&layout=compact&theme=dark"
+         srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=arunsathiya&layout=compact&layout=compact"
          media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
          />
-      <img src="https://github-readme-stats.vercel.app/api?username=arunsathiya&show_icons=true" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arunsathiya&show_icons=true" />
    </picture>
 </a>
