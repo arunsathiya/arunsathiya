@@ -1,4 +1,4 @@
-- 🎭 I'm a software engineer
+- 🎭 I'm a software engineer.
 - 🥸 I'm currently enrolled in graduate program in Data Analytics at California State University - East Bay.
 - 🧡 I love CLI development, API integration and all things Go.
 
