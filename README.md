@@ -1,35 +1,29 @@
-# Hi there! 👋
+### Hi, I am Arun! 👋
 
-I'm a software engineer, and I'm currently enrolled in graduate program in Data Analytics at California State University - East Bay. I love CLI development, API integration and all things Go.
+- 🎭 I'm a software engineer
+- 🥸 I'm currently enrolled in graduate program in Data Analytics at California State University - East Bay.
+- 🧡 I love CLI development, API integration and all things Go.
 
-## 🪄 What I do
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=arunsathiya&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=arunsathiya&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
+</picture>
 
-- 💻 Enjoy tackling software engineering problems.
-- 🔒 Participate in security-minded conversations and practice online privacy.
-- 🌎 Experiment with computer networking, federated/distributed social networking.
-- 🧐 Love building a homelab of self-hosted applications.
-
-## ✨ Experience
-
-- 📕 Product Ambassador at Automattic, for WordPress and WooCommerce.
-- 🔐 Developer Intern at 1Password, worked on the 1Password Shell Plugins project and the 1Password CLI.
-- 🧑🏽‍💻 Contribute to the WordPress.com Calypso project.
-- 📈 Built Slack and Telegram chatbots on Cloudflare Workers, Fly.io, and GitHub Actions.
-
-## 🔖 Coursework
-
-- 📚 Learning EC2/EMR, Hadoop, Redshift.
-- 💾 Familiar with Python and R programming for Data Gathering, cleansing and Data Analysis.
-- 🧩 Hands-on experience with Tableau and SPSS.
-
-## 📫 Contact Me
-
-- [arun@arun.blog](mailto:arun@arun.blog), [Twitter](https://twitter.com/arunsathiya), [LinkedIn](https://linkedin.com/arunsathiya)
-
-<!-- <div align="center"> -->
-
-![github streak](https://github-readme-streak-stats.herokuapp.com/?user=arunsathiya&stroke=C5C5C5&background=000000&ring=599659&fire=599659&currStreakNum=C5C5C5&currStreakLabel=599659&sideNums=C5C5C5&sideLabels=599659&dates=ffffff&hide_border=true)
-
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=arunsathiya&langs_count=10&layout=compact&theme=react&hide_border=true&bg_color=000000&title_color=599659&hide=CSS&card_width=445px)
-
-<!-- </div> -->
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=arunsathiya&layout=compact&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=arunsathiya&layout=compact&theme=dark"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
+</picture>
