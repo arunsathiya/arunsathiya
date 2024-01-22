@@ -18,14 +18,14 @@
 <a href="https://github.com/arunsathiya">
    <picture>
       <source
-         srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=arunsathiya&layout=compact&theme=dark"
+         srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=arunsathiya&exclude_repo=spotify-with-langchain&layout=compact&theme=dark"
          media="(prefers-color-scheme: dark)"
          />
       <source
-         srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=arunsathiya&layout=compact"
+         srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=arunsathiya&exclude_repo=spotify-with-langchain&layout=compact"
          media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
          />
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arunsathiya&show_icons=true" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arunsathiya&exclude_repo=spotify-with-langchain&show_icons=true" />
    </picture>
 </a>
 
