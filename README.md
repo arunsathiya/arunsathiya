@@ -5,27 +5,27 @@
 <a href="https://github.com/arunsathiya">
    <picture>
       <source
-         srcset="https://github-readme-stats.vercel.app/api?username=arunsathiya&exclude_repo=spotify-with-langchain,jax-cfd,jupyterlab-infoboxes,huggingface-datasets-github-issues-cli-cli,contact-center-ai-samples,Real-Estate-Web-Scraping-and-Analysis&rank_icon=github&show_icons=true&layout=compact&theme=dark"
+         srcset="https://github-readme-stats.vercel.app/api?username=arunsathiya&hide=jupyter-notebook&rank_icon=github&show_icons=true&layout=compact&theme=dark"
          media="(prefers-color-scheme: dark)"
          />
       <source
-         srcset="https://github-readme-stats.vercel.app/api?username=arunsathiya&exclude_repo=spotify-with-langchain,jax-cfd,jupyterlab-infoboxes,huggingface-datasets-github-issues-cli-cli,contact-center-ai-samples,Real-Estate-Web-Scraping-and-Analysis&rank_icon=github&show_icons=true&layout=compact"
+         srcset="https://github-readme-stats.vercel.app/api?username=arunsathiya&hide=jupyter-notebook&rank_icon=github&show_icons=true&layout=compact"
          media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
          />
-      <img src="https://github-readme-stats.vercel.app/api?username=arunsathiya&exclude_repo=spotify-with-langchain,jax-cfd,jupyterlab-infoboxes,huggingface-datasets-github-issues-cli-cli,contact-center-ai-samples,Real-Estate-Web-Scraping-and-Analysis&rank_icon=github&show_icons=true" />
+      <img src="https://github-readme-stats.vercel.app/api?username=arunsathiya&hide=jupyter-notebook&rank_icon=github&show_icons=true" />
    </picture>
 </a>
 <a href="https://github.com/arunsathiya">
    <picture>
       <source
-         srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=arunsathiya&exclude_repo=spotify-with-langchain,jax-cfd,jupyterlab-infoboxes,huggingface-datasets-github-issues-cli-cli,contact-center-ai-samples,Real-Estate-Web-Scraping-and-Analysis&layout=compact&theme=dark"
+         srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=arunsathiya&hide=jupyter-notebook&layout=compact&theme=dark"
          media="(prefers-color-scheme: dark)"
          />
       <source
-         srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=arunsathiya&exclude_repo=spotify-with-langchain,jax-cfd,jupyterlab-infoboxes,huggingface-datasets-github-issues-cli-cli,contact-center-ai-samples,Real-Estate-Web-Scraping-and-Analysis&layout=compact"
+         srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=arunsathiya&hide=jupyter-notebook&layout=compact"
          media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
          />
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arunsathiya&exclude_repo=spotify-with-langchain,jax-cfd,jupyterlab-infoboxes,huggingface-datasets-github-issues-cli-cli,contact-center-ai-samples,Real-Estate-Web-Scraping-and-Analysis&show_icons=true" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arunsathiya&hide=jupyter-notebook&show_icons=true" />
    </picture>
 </a>
 
