@@ -1,3 +1,4 @@
 - Enjoy working on [Advent of Code](https://github.com/arunsathiya/adventofcode) and [Leetcode](https://github.com/arunsathiya/leetcode) puzzles.
-- Love working at the intersection of CLI development, API integration, IaC, automation ([GitHub GraphQL-backed workflows](https://github.com/arunsathiya/set-output-janitor)) and all things Go.
+- Love working at the intersection of CLI development, API integration, IaC, automation, and all things Go.
+- I am currently building [set-output-janitor](https://github.com/arunsathiya/set-output-janitor) to automate specific GitHub patches in bulk with the GraphQL API, [my portfolio](https://github.com/arunsathiya/portfolio) that's built with Astro, Fastly Compute, Notion and GitHub Actions, amidst a few other CLI projects. (see pinned repositories below)
 - Graduate student from CSUEB that's looking for software and data engineering opportunities.
