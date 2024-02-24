@@ -1,3 +1,3 @@
-- Enjoy working on Advent of Code and Leetcode puzzles.
-- Love CLI development, API integration, IaC, automation and all things Go.
-- Graduate student in Data Analytics from CSUEB.
+- Enjoy working on [Advent of Code](https://github.com/arunsathiya/adventofcode) and [Leetcode](https://github.com/arunsathiya/leetcode) puzzles.
+- Love working at the intersection of CLI development, API integration, IaC, automation ([GitHub GraphQL-backed workflows](https://github.com/arunsathiya/set-output-janitor)) and all things Go.
+- Graduate student from CSUEB that's looking for software and data engineering opportunities.
