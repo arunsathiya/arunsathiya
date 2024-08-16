@@ -1,5 +1,3 @@
-- Looking for a new software engineering opportunity! Full stack across Golang, TypeScript and Python.
 - Enjoy working on [Advent of Code](https://github.com/arunsathiya/adventofcode), [Leetcode](https://github.com/arunsathiya/leetcode) and [Exercism](https://github.com/arunsathiya/exercism) puzzles.
 - Enjoy working at the intersection of CLI development, API integration, IaC, automation, and all things Go.
 - Currently building [set-output-janitor](https://github.com/arunsathiya/set-output-janitor) to automate specific GitHub patches in bulk with the GraphQL API, [my portfolio](https://github.com/arunsathiya/portfolio) that's built with Astro, Fastly Compute, Notion and GitHub Actions, amidst a few other CLI projects. (see pinned repositories below)
-- Recent grad from CSUEB.
